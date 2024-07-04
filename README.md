@@ -1,2 +1,2 @@
 # Tributo Linkin Park
- Projeto para fixar aprendizados em HTML + CSS
+ Projeto para fixar e relembrar aprendizados em HTML + CSS
